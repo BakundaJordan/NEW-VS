@@ -1,0 +1,13 @@
+.test-float {
+    float: left;
+}
+.test-flex {
+    display: flex;
+    justify-content:flex-end ;
+}
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+@media only screen and (min-width: 600px) {body{ background-color: lightblue; }
+}
